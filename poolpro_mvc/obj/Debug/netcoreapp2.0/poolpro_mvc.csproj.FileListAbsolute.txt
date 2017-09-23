@@ -1,0 +1,12 @@
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\obj\Debug\netcoreapp2.0\poolpro_mvc.csprojResolveAssemblyReference.cache
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\obj\Debug\netcoreapp2.0\poolpro_mvc.csproj.CoreCompileInputs.cache
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\obj\Debug\netcoreapp2.0\poolpro_mvc.AssemblyInfoInputs.cache
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\obj\Debug\netcoreapp2.0\poolpro_mvc.AssemblyInfo.cs
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\bin\Debug\netcoreapp2.0\poolpro_mvc.deps.json
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\bin\Debug\netcoreapp2.0\poolpro_mvc.runtimeconfig.json
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\bin\Debug\netcoreapp2.0\poolpro_mvc.runtimeconfig.dev.json
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\bin\Debug\netcoreapp2.0\poolpro_mvc.dll
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\bin\Debug\netcoreapp2.0\poolpro_mvc.pdb
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\obj\Debug\netcoreapp2.0\poolpro_mvc.dll
+D:\School\codercamps\dreamteam\poolpro_mvc\poolpro_mvc\obj\Debug\netcoreapp2.0\poolpro_mvc.pdb
